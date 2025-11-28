@@ -669,12 +669,12 @@ h1 {
         width: 100%;
         margin-bottom: 5px;
         padding: 10px;
-        font-size: 10px;
+        font-size: 12px;
     }
 
     .email-btn2 {
         width: 100%;
-        padding: 5px;
+        padding: 3px;
         font-size: 10px;
     }
 }

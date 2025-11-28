@@ -707,6 +707,21 @@ h1 {
 
 
 
+@media (max-width: 600px) {
+    .footer {
+        padding: 40px 30px;
+    }
+
+    .footer-links {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+    }
+    
+}
+
+
+
+
 
 
 .login-page {
